@@ -1,7 +1,7 @@
 //1. Initialize npm and install dependencies
 // express, dotenv, cors, mongodb, ejs, nodemon (--save-dev)
 
-//2. Require dependencies in server.js
+//2. Require dependencies in server.js  :)
 
 //push to GitHub: git init, create .gitignore file ( put node_modules in file),
 
