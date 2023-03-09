@@ -9,13 +9,15 @@
 
 //4. Connect to Mongodb - add connection string to .env file
 
-//5. Create Port
+//5. Add .env to gitignore
+
+//6. Create Port
 
 // ------ Test Mongo and Port connection
 
-//6. Set middleware
+//7. Set middleware
 
-//7.Create gitignore file
+//8 .Create gitignore file
 
 //8. Create Public and Views folders. Add main.js and style.css to public and index.ejs to Views
 
